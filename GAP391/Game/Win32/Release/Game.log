@@ -1,0 +1,7 @@
+﻿  File not found - openal32.dll
+  0 File(s) copied
+  File not found - *.dll
+  0 File(s) copied
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(138,5): error MSB3073: The command "xcopy "C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\GAP391\..\Engine\SlothEngine\ThirdParty\SFML\Win32\bin\openal32.dll" "C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\GAP391\Builds\Win32_Release\" /y /d
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(138,5): error MSB3073: xcopy "C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\GAP391\..\Engine\SlothEngine\ThirdParty\Lua\Win32\*.dll" "C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\GAP391\Builds\Win32_Release\" /y /d
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(138,5): error MSB3073: :VCEnd" exited with code 4.

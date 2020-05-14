@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Actor ID="Intro" hidden="false">
+    <Components>
+      <Transform position-left="0" position-top="0" position-right="0" position-bottom="0" rotation="0"
+                  anchor-left="0" anchor-right="1" anchor-top="0" anchor-bottom="1"></Transform>
+      <RenderBox  r="0" g="0" b="0">
+        
+      </RenderBox>
+      <Text r="254" g="192" b="7" size="28">
+      <![CDATA[
+        The galaxy is being corrupted by dark matter. 
+        There is no hope. We must find a new home. 
+        
+        We know of a ancient portal to another galaxy 
+        orbiting a green super giant star in the Milky 
+        way. You must find it. It requires a series of 
+        alien artifacts to open, find them all. 
+        
+        Use the known hyperspace lanes leading out
+        out from Sol system to find a way to open the 
+        gate and save humanity.
+        
+        CONTROLS: 
+        Left Click to select Star System
+        Double Click to enter Star System
+        Double Click to zoom in on a Planet
+        Right Click to zoom out
+        E for Explorer Mode (exposes all stars / quest lines)
+        
+        Spacebar to continue...
+      ]]>  
+      </Text>
+    </Components>
+  </Actor>
+  <Actor ID="Win" hidden="true">
+    <Components>
+      <Transform position-left="0" position-top="0" position-right="0" position-bottom="0" rotation="0"
+                  anchor-left="0" anchor-right="1" anchor-top="0" anchor-bottom="1"></Transform>
+      <RenderBox  r="0" g="0" b="0">
+
+      </RenderBox>
+      <Text r="254" g="192" b="7" size="40">
+        <![CDATA[
+      The portal has been opened! Humanity is saved!
+      
+      ... for now.
+      ]]>
+      </Text>
+    </Components>
+  </Actor>
+
+  <Actor ID="StarDisplay" hidden="true">
+    <Components>
+      <Transform position-left="0" position-top="00" position-right="-100" position-bottom="100" rotation="0"
+                  anchor-left="0" anchor-right="1" anchor-top="0" anchor-bottom="0"></Transform>
+      <Text r="255" g="255" b="255" size="20">
+         Star Name
+      </Text>
+    </Components>
+  </Actor>
+
+  <Actor ID="Instructions" hidden="false">
+    <Components>
+      <Transform position-left="10" position-top="-40" position-right="-100" position-bottom="-10" rotation="0"
+                  anchor-left="0" anchor-right="1" anchor-top="1" anchor-bottom="1"></Transform>
+      <Text r="255" g="255" b="255" size="20">Find all alien artifacts to open the portal to the green star.</Text>
+    </Components>
+  </Actor>
+
+  <Actor ID="ArtifactCount" hidden="false">
+    <Components>
+      <Transform position-left="-200" position-top="-40" position-right="-10" position-bottom="-10" rotation="0"
+                  anchor-left="1" anchor-right="1" anchor-top="1" anchor-bottom="1"></Transform>
+      <Text r="255" g="255" b="255" size="20">Artifacts: 0 / 3</Text>
+    </Components>
+  </Actor>
+  
+</Root>

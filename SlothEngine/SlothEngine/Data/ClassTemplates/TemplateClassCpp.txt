@@ -1,0 +1,13 @@
+#include "$class_name.h"
+
+using slth::$class_name;
+
+$class_name::$class_name()
+{
+	
+}
+
+$class_name::~$class_name()
+{
+	
+}

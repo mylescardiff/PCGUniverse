@@ -1,0 +1,14 @@
+// Actual file with no semicolons!
+REGISTER_ENUM(kEnter)
+REGISTER_ENUM(kGoal)
+REGISTER_ENUM(kBoss)
+REGISTER_ENUM(kItem)
+REGISTER_ENUM(kPuzzle)
+REGISTER_ENUM(kMonster)
+REGISTER_ENUM(kTreasure)
+REGISTER_ENUM(kPukMiniBosszzle)
+REGISTER_ENUM(kTask)
+REGISTER_ENUM(kRest)
+REGISTER_ENUM(kWildCard)
+REGISTER_ENUM(kInvalidNode)
+

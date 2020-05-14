@@ -1,0 +1,120 @@
+﻿  Actor.gen.cpp
+  ApplicationLayer.cpp
+  IResource.cpp
+  MusicResource.cpp
+  ResourceFile.cpp
+  SoundResource.cpp
+  TextureResource.cpp
+  ISystem.cpp
+  WindowsSystem.cpp
+  IWindow.cpp
+  SFMLWindow.cpp
+  SFMLAudioSystem.cpp
+  SFMLMusic.cpp
+  SFMLSoundEffect.cpp
+  ITexture.cpp
+  SfmlDebugPhysicsRenderer.cpp
+  SFMLGraphics.cpp
+  SFMLTexture.cpp
+  IKeyboard.cpp
+  IKeyboard.gen.cpp
+  Compiling...
+  IMouse.cpp
+  IMouse.gen.cpp
+  Logger.cpp
+  Actor.cpp
+  ActorFactory.cpp
+  Animation.cpp
+  AnimationManager.cpp
+  AnimationComponent.cpp
+  ColliderComponent.cpp
+  IComponent.cpp
+  IDrawableComponent.cpp
+  RenderBoxComponent.cpp
+  RigidBodyComponent.gen.cpp
+  RigidBodyComponent.cpp
+  SpriteComponent.cpp
+  TextComponent.cpp
+  TransformComponent.cpp
+  TransformComponent.gen.cpp
+  CollisionEvent.cpp
+  EventDispatcher.cpp
+  Compiling...
+  IEvent.cpp
+  GridSystem.cpp
+  GridTile.cpp
+  IGameLayer.cpp
+  IGameLayer.gen.cpp
+  AnimationProcess.cpp
+  IProcess.cpp
+  ProcessManager.cpp
+  Layer.cpp
+  Map.cpp
+  Tileset.cpp
+  World.cpp
+  BspTree.cpp
+  BspTreeNode.cpp
+  CellularAutomaton.cpp
+  DateTime.cpp
+  FileUtil.cpp
+  Noise.cpp
+  Rng.cpp
+  Utilities.cpp
+  Compiling...
+  IView.cpp
+  tinyxml2.cpp
+     Creating library C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\SlothEngine.lib and object C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\SlothEngine.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 3993 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+Box2D.lib(b2ChainShape.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2ChainShape.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2CircleShape.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2CircleShape.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2EdgeShape.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2EdgeShape.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2PolygonShape.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2PolygonShape.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2BroadPhase.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2BroadPhase.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2CollideCircle.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2CollideCircle.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2CollideEdge.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2CollideEdge.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2CollidePolygon.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2CollidePolygon.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2Collision.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2Collision.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2Distance.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2Distance.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2DynamicTree.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2DynamicTree.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2TimeOfImpact.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2TimeOfImpact.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2BlockAllocator.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2BlockAllocator.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2Draw.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2Draw.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2Math.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2Math.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2Settings.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2Settings.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2StackAllocator.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2StackAllocator.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2Timer.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2Timer.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2ChainAndCircleContact.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2ChainAndCircleContact.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2ChainAndPolygonContact.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2ChainAndPolygonContact.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2CircleContact.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2CircleContact.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2Contact.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2Contact.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2ContactSolver.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2ContactSolver.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2EdgeAndCircleContact.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2EdgeAndCircleContact.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2EdgeAndPolygonContact.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2EdgeAndPolygonContact.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2PolygonAndCircleContact.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2PolygonAndCircleContact.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2PolygonContact.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2PolygonContact.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2DistanceJoint.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2DistanceJoint.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2FrictionJoint.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2FrictionJoint.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2GearJoint.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2GearJoint.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2Joint.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2Joint.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2MotorJoint.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2MotorJoint.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2MouseJoint.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2MouseJoint.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2PrismaticJoint.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2PrismaticJoint.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2PulleyJoint.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2PulleyJoint.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2RevoluteJoint.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2RevoluteJoint.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2RopeJoint.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2RopeJoint.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2WeldJoint.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2WeldJoint.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2WheelJoint.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2WheelJoint.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2Body.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2Body.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2ContactManager.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2ContactManager.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2Fixture.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2Fixture.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2Island.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2Island.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2World.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2World.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2WorldCallbacks.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2WorldCallbacks.obj)' or at 'C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\Box2D.pdb'; linking object as if no debug info
+  SlothEngine.vcxproj -> C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\SlothEngine.dll
+  C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\SlothEngine.dll
+  1 File(s) copied
+  C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\Win32_Release\SlothEngine.pdb
+  1 File(s) copied

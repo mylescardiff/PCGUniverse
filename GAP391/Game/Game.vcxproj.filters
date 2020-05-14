@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Source\Logic\GameApp.cpp">
+      <Filter>Logic</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Logic\GameLogic.cpp">
+      <Filter>Logic</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Main.cpp" />
+    <ClCompile Include="Source\Views\HumanView.cpp">
+      <Filter>Views</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\PCG\LSystem.cpp">
+      <Filter>PCG</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\PCG\Grammar.cpp">
+      <Filter>PCG</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Universe\Planet.cpp">
+      <Filter>Universe</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Universe\Star.cpp">
+      <Filter>Universe</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\PCG\NameGenerator.cpp">
+      <Filter>PCG</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Graph\Graph.cpp">
+      <Filter>Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Graph\GraphNode.cpp">
+      <Filter>Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Graph\GraphRule.cpp">
+      <Filter>Graph</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Logic">
+      <UniqueIdentifier>{8d30319d-4251-49ca-8d15-2bf342a31ebe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Views">
+      <UniqueIdentifier>{588fa60e-e7ac-4375-8085-baeeef31794b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Logic\Events">
+      <UniqueIdentifier>{147dd588-efd4-45cf-afd6-9690df25f7d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scripts">
+      <UniqueIdentifier>{4ca7959f-1325-4d08-bafc-15bead1131e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data">
+      <UniqueIdentifier>{14841433-9cbd-4bfa-8f3e-dd509ef5fdb1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dungeon">
+      <UniqueIdentifier>{4e0fd2bf-4244-45d9-8e88-54b8c941f631}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PCG">
+      <UniqueIdentifier>{b483e525-ac1a-4701-8dd5-5124eede2b42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Universe">
+      <UniqueIdentifier>{ae564985-f5c4-4986-bfcb-69f0542110e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graph">
+      <UniqueIdentifier>{e5bd3817-9705-4cfd-bf0e-37b00ece1bde}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Source\Logic\GameApp.h">
+      <Filter>Logic</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Logic\GameLogic.h">
+      <Filter>Logic</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Views\HumanView.h">
+      <Filter>Views</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\PCG\LSystem.h">
+      <Filter>PCG</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\PCG\Grammar.h">
+      <Filter>PCG</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Graph\Names.h" />
+    <ClInclude Include="Source\Universe\Planet.h">
+      <Filter>Universe</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Universe\Star.h">
+      <Filter>Universe</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\PCG\NameGenerator.h">
+      <Filter>PCG</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Graph\GraphRule.h">
+      <Filter>Graph</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Graph\Graph.h">
+      <Filter>Graph</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Graph\GraphNode.h">
+      <Filter>Graph</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Scripts\startup.lua">
+      <Filter>Scripts</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Xml Include="Data\actors.xml">
+      <Filter>Data</Filter>
+    </Xml>
+    <Xml Include="Data\animations.xml">
+      <Filter>Data</Filter>
+    </Xml>
+    <Xml Include="Data\ui.xml">
+      <Filter>Data</Filter>
+    </Xml>
+    <Xml Include="Data\world.xml">
+      <Filter>Data</Filter>
+    </Xml>
+    <Xml Include="Data\stars.xml">
+      <Filter>Data</Filter>
+    </Xml>
+  </ItemGroup>
+</Project>
