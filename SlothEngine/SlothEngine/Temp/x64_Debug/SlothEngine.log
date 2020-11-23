@@ -1,6 +1,4 @@
-﻿  Actor.gen.cpp
-  ApplicationLayer.cpp
-  IResource.cpp
+﻿  IResource.cpp
   MusicResource.cpp
   ResourceFile.cpp
   SoundResource.cpp
@@ -13,15 +11,15 @@
   SFMLMusic.cpp
   SFMLSoundEffect.cpp
   ITexture.cpp
-  SfmlDebugPhysicsRenderer.cpp
   SFMLGraphics.cpp
   SFMLTexture.cpp
+  SfmlDebugPhysicsRenderer.cpp
   IKeyboard.cpp
   IKeyboard.gen.cpp
-  Generating Code...
-  Compiling...
   IMouse.cpp
   IMouse.gen.cpp
+  Generating Code...
+  Compiling...
   Logger.cpp
   Actor.cpp
   ActorFactory.cpp
@@ -32,18 +30,18 @@
   IComponent.cpp
   IDrawableComponent.cpp
   RenderBoxComponent.cpp
-  RigidBodyComponent.gen.cpp
   RigidBodyComponent.cpp
+  RigidBodyComponent.gen.cpp
   SpriteComponent.cpp
   TextComponent.cpp
   TransformComponent.cpp
   TransformComponent.gen.cpp
   CollisionEvent.cpp
   EventDispatcher.cpp
-  Generating Code...
-  Compiling...
   IEvent.cpp
   GridSystem.cpp
+  Generating Code...
+  Compiling...
   GridTile.cpp
   IGameLayer.cpp
   IGameLayer.gen.cpp
@@ -62,14 +60,12 @@
   Noise.cpp
   Rng.cpp
   Utilities.cpp
-  Generating Code...
-  Compiling...
   IView.cpp
   tinyxml2.cpp
   Generating Code...
-     Creating library C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\x64_Debug\SlothEngine.lib and object C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\x64_Debug\SlothEngine.exp
-  SlothEngine.vcxproj -> C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\x64_Debug\SlothEngine.dll
-  C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\x64_Debug\SlothEngine.dll
+     Creating library D:\PGC Universe\SlothEngine\SlothEngine\Libs\x64_Debug\SlothEngine.lib and object D:\PGC Universe\SlothEngine\SlothEngine\Libs\x64_Debug\SlothEngine.exp
+  SlothEngine.vcxproj -> D:\PGC Universe\SlothEngine\SlothEngine\Libs\x64_Debug\SlothEngine.dll
+  D:\PGC Universe\SlothEngine\SlothEngine\Libs\x64_Debug\SlothEngine.dll
   1 File(s) copied
-  C:\Users\myles\Dropbox (Self Storage 1)\Documents\School\Archived Classes\GAP 391 - Proc. Content Gen\Mod 15 - Final Project\SlothEngine\SlothEngine\Libs\x64_Debug\SlothEngine.pdb
+  D:\PGC Universe\SlothEngine\SlothEngine\Libs\x64_Debug\SlothEngine.pdb
   1 File(s) copied
