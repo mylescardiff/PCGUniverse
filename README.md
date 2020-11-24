@@ -1,5 +1,2 @@
-# PCGUniverse
+# PCG Universe 2.0
 A C++ Procedurally Generated Universe
-
-<h1>This is a heading</h1>
-<p>This is a paragraph</p>
